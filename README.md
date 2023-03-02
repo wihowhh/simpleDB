@@ -1,2 +1,7 @@
+<div align="center">
+  <img src=./title.png >
+</div>
+
 # simpleDB
-java, class project
+
+> - a class project using java
