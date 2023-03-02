@@ -1,0 +1,17 @@
+0. 这里提供的都是 windows x64 版本的安装包，如果是其他平台的需要自己下载安装。
+	Git：https://git-scm.com/downloads
+	JDK（推荐使用 JDK8）：https://www.oracle.com/cn/java/technologies/javase-jdk8-downloads.html
+	IDEA：https://www.jetbrains.com/zh-cn/idea/download/other.html
+	Eclipse：https://www.eclipse.org/downloads/packages/release/2019-12/r/eclipse-ide-java-developers
+
+1. Git 的安装：
+	双击运行安装包，不理解的保持默认选项即可。Git 的使用可以参考 https://git-scm.com/book/zh/v2/%E8%B5%B7%E6%AD%A5-%E5%AE%89%E8%A3%85-Git
+
+2. JDK 的安装：
+	双击运行安装包，默认即可。安装完成后需要进行 Java 环境变量的配置，请参考 https://www.cnblogs.com/cnwutianhao/p/5487758.html
+
+3. IDEA 的安装与激活：（Eclipse 和 IDEA 均为 Java 开发工具，使用一个即可，也可以使用其他 IDE，上课演示主要使用 IDEA）
+	请参考 https://www.jianshu.com/p/2c6977ab00b1 先使用南开学生邮箱注册 JetBrains 账号申请教育授权，然后运行安装包，默认即可，要求激活产品使用刚才注册的账号
+
+4. Eclipse 的安装：
+	先安装 JDK，运行安装包，默认选项即可
